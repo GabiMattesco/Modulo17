@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Access Form Panel",
+    "children" : [ {
+      "name" : "should fill form",
+      "uid" : "4abb4969ed19ceb1",
+      "parentUid" : "373562fef623453b0e7ed589063d6fed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653078678823,
+        "stop" : 1653078694732,
+        "duration" : 15909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    } ],
+    "uid" : "373562fef623453b0e7ed589063d6fed"
+  } ]
+}

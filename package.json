@@ -1,18 +1,19 @@
 {
-  "name": "exerciciomodulo16",
+  "name": "modulo17",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  
   "scripts": {
     "test": "npx wdio run ./wdio.conf.js",
     "wdio": "wdio run wdio.conf.js",
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
     "cy:dashboard": "",
-    "cy:report": ""
-},
+    "cy:report": "",
+    "report": "npx allure open allure-report"
+  },
   "dependencies": {
+    "@wdio/browserstack-service": "^7.19.7",
     "agent-base": "^6.0.2",
     "ansi-colors": "^4.1.1",
     "ansi-escapes": "^4.3.2",
@@ -276,6 +277,7 @@
     "uuid": "^8.3.2",
     "validate-npm-package-license": "^3.0.4",
     "wcwidth": "^1.0.1",
+    "wd": "^1.14.0",
     "webdriver": "^7.19.7",
     "webdriverio": "^7.19.7",
     "webidl-conversions": "^3.0.1",

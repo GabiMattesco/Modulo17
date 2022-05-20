@@ -1,0 +1,10 @@
+{
+  "script": "mobile:scroll",
+  "args": [
+    {
+      "direction": "down",
+      "strategy": "accessibility id",
+      "selector": "~button-Active"
+    }
+  ]
+}

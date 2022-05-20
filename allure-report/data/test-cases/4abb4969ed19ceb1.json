@@ -1,0 +1,70 @@
+{
+  "uid" : "4abb4969ed19ceb1",
+  "name" : "should fill form",
+  "fullName" : "Access Form Panel.should fill form",
+  "historyId" : "7af348cd60b9679be0daa26aa73dcd55",
+  "time" : {
+    "start" : 1653078678823,
+    "stop" : 1653078694732,
+    "duration" : 15909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Access Form Panel"
+  }, {
+    "name" : "testClass",
+    "value" : "Access Form Panel"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill form"
+  }, {
+    "name" : "package",
+    "value" : "Access Form Panel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "ebac-qe 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "488dd4defe0c5965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653077999248,
+        "stop" : 1653078022899,
+        "duration" : 23651
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4abb4969ed19ceb1.json",
+  "parameterValues" : [ "ebac-qe 11.0-11" ]
+}

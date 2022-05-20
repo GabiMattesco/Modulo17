@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653078678822' stop='1653078694733'>
+    <name>Access Form Panel</name>
+    <title>Access Form Panel</title>
+    <test-cases>
+        <test-case start='1653078678823' status='passed' stop='1653078694732'>
+            <name>should fill form</name>
+            <title>should fill form</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-qe 11.0-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
